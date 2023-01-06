@@ -1,5 +1,8 @@
 ## Rust - Algorithms & Data Structures
 
+## Requiered steps for to run
+- RUN `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
+
 ## Rust by example
 
 - https://doc.rust-lang.org/stable/rust-by-example/index.html
